@@ -1,0 +1,15 @@
+# bot-builder-appname: bot_builder_app
+description: Store setup wizard
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
