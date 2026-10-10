@@ -1,4 +1,4 @@
-# bot-builder-appname: bot_builder_app
+name: bot_builder_app
 description: Store setup wizard
 publish_to: 'none'
 version: 1.0.0+1
